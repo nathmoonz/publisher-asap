@@ -2,7 +2,7 @@
 
 ## Projeto desenvolvido no Hackathon da Asapcard.
 
-### Tecnologias utilizadas: Java, Spring, RabbitMQ, MySQL.
+### Tecnologias utilizadas: Java, Spring, RabbitMQ, MySQL, Meaven.
 
 #### Projeto ainda não finalizado, desenvolvido com o propósito acadêmico.
 

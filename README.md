@@ -1,4 +1,4 @@
-# Projeto Grupo Gengar.
+# Projeto Grupo Gengar - Publisher.
 
 ## Projeto desenvolvido no Hackathon da Asapcard.
 
